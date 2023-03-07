@@ -1,5 +1,3 @@
-import {Chess} from "chess.js";
-
 var cnt = 0;
 var move = [2];
 let game_id;
