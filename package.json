@@ -1,0 +1,20 @@
+{
+  "name": "aib",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "This package name is not currently in use, but was formerly occupied by another package. To avoid malicious use, npm is hanging on to the package name, but loosely, and we'll probably give it to you if you want it.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chess.js": "^1.0.0-beta.3",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http": "^0.0.1-security",
+    "mariadb": "^3.1.0",
+    "mysql": "^2.18.1"
+  }
+}

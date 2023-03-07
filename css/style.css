@@ -1,0 +1,17 @@
+.square{
+    height: 5em;
+    width: 5em;
+}
+
+.b{
+    background-color: saddlebrown;
+}
+
+.w{
+    background-color: wheat;
+}
+
+.piece{
+    height: 5em;
+    width: 5em;
+}
